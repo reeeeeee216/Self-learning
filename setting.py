@@ -1,3 +1,1 @@
-
-
-
+print("your mom")
